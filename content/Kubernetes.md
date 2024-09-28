@@ -1,5 +1,0 @@
----
-tags:
-  - cheatsheet
-title: Kubernetes
----
