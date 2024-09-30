@@ -1,0 +1,1 @@
+You can take a call. Instead of building exploitative companies. Build technology for improvement of human capabilities and social life. 
