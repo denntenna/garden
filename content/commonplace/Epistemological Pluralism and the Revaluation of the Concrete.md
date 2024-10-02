@@ -5,14 +5,22 @@ author:
 date of publication:
 ---
 Sherry Turkle, Seymour Papert, Epistemological Pluralism and the Revalution of the Concrete. Journal of Mathematical Behaviour, 1992
+# Takeaway
+There are multiple ways to do computer programming. The analytical method is considered canonical and "right", which alienates people who work in a more bricoleur fashion. They either end up dis-identifying themselves as a programmer or pretend to work in the "right" way to fit in with the larger culture.
+While the authors see association with the two styles and gender, their larger point is about accepting multiple ways of knowing and thinking.
 
 # Overview
-Parts of it speak of the work of Gillian and Keller on native cultures and how they practice science in a non analytical manner. Made me think of [[Zen and the Art of Motorcycle Maintenance]] 
+In this essay, authors use the computer as an instrument for observing different styles of scientific thought and develop categories for analysing them. Authors see differences across various dimensions between the student's strategy for organizing work and their manner of identifying with computational object. These are simplified into a soft approach vs a hard approach. 
 
-# Commonplace
-The computer has a theoretical vocation: to bring the philosophical down to earth.
+Authors share 2 anecdotal cases from their study.
+Lisa, 18, a first year Harvard Student does not want to use premade libraries in her code but wants to write her own building blocks. She thinks the libraries are opaque. If she writes the code herself, like she writes poems, she knows where every word/idea is at every stage.
+After two months of programming, she abandons her own methods and simply accepts doing things "their way" and accepting the inevitable alienation from her work.
 
-In this chapter, we use the computer as an instrument for observing different styles of scientific thought and developing categories for analyzing them.
+Discrimination exists at the epistemological level where a way of doing something is considered incorrect.
+
+Although our culture tends to equate soft with feminine and feminine with unscientific and undisciplined, the authors have made a conscious decision to use that term because soft is a good word for a flexible and non heirarchical style. Authors want to revaluate traditionally denigrated categories and explore ways in which soft is a valid approach for men as well as women, in science and arts.
+
+Thus, the elements of each cluster are not invariably associated with each other; still less are they invariably associated with gender.9 But in our observations of people learning to program we have found an association between gender and approach to programming. When people are free to explore programming without preconceptions about the "right" way to do it, more women use soft approaches and more men hard approaches, although many men are alienated from the dominant engineering style and many women work creatively within it.
 
 The "wrist slapping" narrows computer culture.
 Talking about the right way to do something or doing it in service of one thing - becoming an enterprise software developer reduces the way to be.
@@ -28,7 +36,22 @@ Classification and value of different ways of knowing
 When people are free to explore programming without preconceptions about the "right" way to do it, more women use soft approaches and more men hard approaches, although many men are alienated from the dominant engineering style and many women work creatively within it.
 
 Although the authors find a correlation that more women use soft approaches vs men using hard approaches, they say
-... we beleive that what is most important is not any statistical association between gender and programming styles, but what lies behind the styles and behind the resistance of our intellectual culture to recognize and facilitate them both. In our culture, those who use hard approaches don't simply share a style, they constitute an epistemological elite.
+... we believe that what is most important is not any statistical association between gender and programming styles, but what lies behind the styles and behind the resistance of our intellectual culture to recognise and facilitate them both. In our culture, those who use hard approaches don't simply share a style, they constitute an epistemological elite.
+
+
+## Bricolage
+A bricoleur programmer is like a writer who does not start with an outline but starts with an idea, associates it to another and find a cnnection with a third. In the end, an essay is grown through negotiation and association. Anne makes it clear that the difference between planners and bricoleurs is not in the quality of the product but in the process of creating it. 
+
+## Beyond Bricolage
+The objectivity in scientific method is highlighted as the only way to do science but STS scholarship shows that this is not the case. Many scientists do have a proximity to their materials, with some describing their practice of science as a conversation with the materials.
+
+In their study, girls did better than boys in understanding gears and how they work. They saw things in terms of the relationships between them and used that to think through the problem.
+
+Bricolage is a way to organize work. It is not a stage in a progression to a superior form.
+
+# Fleeting Notes
+
+The computer has a theoretical vocation: to bring the philosophical down to earth. 
 
 Gilligan and Keller's work
 
@@ -40,12 +63,6 @@ He had considered the structured approach but prefers his own style for aestheti
 
 While the structured programmer starts with a clear place defined in abstract terms, Alex lets the product emerge through a negotiation between himself and his material.
 
-bricoleur programmers
-In describing bricoleur programmers, we have made analogies to sculptors, cooks and painters. Bricoleurs are also like writers who don't use an outline but start with one idea, associate to another, and find a connection with a third. In the end, an essay "grown" through negotiation and association is not necessarily any less elegant or easy to read than one filled in from an outline, jst as the final program produced by a bricoleur can be elegant and organized as one wirtten with top-down approach
-
-the difference between planners and the bricoleurs is not in quality of product, it is in the process of creating it.
-
-Bricolage is a way to organize work. It is not a stage in a progression to a superior form.
 
 [[In a different voice]]
 For women, the moral problem arises from conflicting responsibilities rather than from competing rights and requires for its resolution a mode of thinking that is contextual and narrative rather than formal and abstract.
@@ -96,6 +113,8 @@ We believe that the three intellectual movements we have noted -- feminism, ethn
 of a sea change that would not only recognize concrete thinking as important, but promote it to an object of science in its own right.
 
 The role of feminist studies in the nascent computer culture is to promote the recognition of diversity in how we think about and appropriate formal systems and encourage the acceptance of our profound human connection with our tools
+
+8 recognizes soft approach as an integral element of scientific practice.
 
 ## Later Reading
 
