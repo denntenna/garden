@@ -1,0 +1,1 @@
+In the book [[Future Shock]], Alvin Toffler mentions how there are some people already living in the future. That they have access to technologies or are doing work using imperfect tools that mimics what would be considered a commodity in the future.
