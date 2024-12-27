@@ -1,0 +1,4 @@
+---
+author:
+  - Masanobu Fukuoka
+---
